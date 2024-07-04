@@ -4,3 +4,4 @@ plotly
 ipywidgets
 requests
 matplotlib
+plotly_events
